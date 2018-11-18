@@ -1,0 +1,1 @@
+# Scorponok.IB.Financial.Cqrs
