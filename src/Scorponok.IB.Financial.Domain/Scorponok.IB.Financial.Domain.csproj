@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Scorponok.IB.Financial.Domain</AssemblyName>
+    <RootNamespace>Scorponok.IB.Financial.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.0.100" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Scorponok.IB.Financial.Domain.Core\Scorponok.IB.Financial.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

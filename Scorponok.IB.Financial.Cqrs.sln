@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{82D28052-1F69-41FB-A49A-A46A33363B80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Services", "2.Services", "{D57C2531-D645-4C7D-87CE-478879BF38A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{7B435C54-2C19-48DA-9D0E-517B89726461}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infra", "4.Infra", "{989FFE5C-F3F6-4408-9B98-B4A880C84AA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Tests", "5.Tests", "{F45D89C5-A439-4EC2-ABF4-BB14836D960A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scorponok.IB.Unit.Tests", "src\Scorponok.IB.Unit.Tests\Scorponok.IB.Unit.Tests.csproj", "{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scorponok.IB.Financial.Domain", "src\Scorponok.IB.Financial.Domain\Scorponok.IB.Financial.Domain.csproj", "{6E75AEAA-A884-4D53-817D-2B471398C69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scorponok.IB.Financial.Domain.Core", "src\Scorponok.IB.Financial.Domain.Core\Scorponok.IB.Financial.Domain.Core.csproj", "{938B55E1-2EDB-4C3F-AFCC-2512C133831E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E75AEAA-A884-4D53-817D-2B471398C69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E75AEAA-A884-4D53-817D-2B471398C69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E75AEAA-A884-4D53-817D-2B471398C69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E75AEAA-A884-4D53-817D-2B471398C69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938B55E1-2EDB-4C3F-AFCC-2512C133831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B55E1-2EDB-4C3F-AFCC-2512C133831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B55E1-2EDB-4C3F-AFCC-2512C133831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B55E1-2EDB-4C3F-AFCC-2512C133831E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F470FBD5-D582-4CF1-944F-CE6B0DF0AE67} = {F45D89C5-A439-4EC2-ABF4-BB14836D960A}
+		{6E75AEAA-A884-4D53-817D-2B471398C69B} = {7B435C54-2C19-48DA-9D0E-517B89726461}
+		{938B55E1-2EDB-4C3F-AFCC-2512C133831E} = {7B435C54-2C19-48DA-9D0E-517B89726461}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CA6F71-98DF-4B2E-9EDC-0741C34B3531}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\bin\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.deps.json
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\bin\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.dll
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.csprojAssemblyReference.cache
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.csproj.CoreCompileInputs.cache
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.AssemblyInfoInputs.cache
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.AssemblyInfo.cs
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\bin\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.pdb
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.dll
+S:\scorponok\Projetos\Scorponok\Scorponok.IB.Financial.Cqrs\src\Scorponok.IB.Financial.Domain.Core\obj\Debug\netcoreapp2.1\Scorponok.IB.Financial.Domain.Core.pdb
